@@ -10,5 +10,4 @@ public interface RoleService {
     Set<Role> findAllById(List<Long> ids);
     void save(Role role);
 
-
 }
